@@ -1,7 +1,7 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://cityzens-selfie-dev.mancity.com/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://staging.lumina-uk.com/">
 <channel>
-<title>Cityzens-selfie Dev Mancity</title>
-<link>https://cityzens-selfie-dev.mancity.com/dup/video/</link>
+<title>Staging Lumina</title>
+<link>https://staging.lumina-uk.com/dup/video/</link>
 <description/>
 <language>en</language>
 
